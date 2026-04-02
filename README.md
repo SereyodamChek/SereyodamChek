@@ -69,7 +69,7 @@ values:
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker,postman,figma,aws,cloudflare,mysql,ps,ai,discord,html,css,javascript,nextjs,typescript,go,figma&perline=10&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker,postman,figma,aws,cloudflare,mysql,ps,ai,discord,html,css,javascript,nextjs,typescript,flutter,figma&perline=10&theme=dark" alt="Tools"/>
 </div>
 
 ---
