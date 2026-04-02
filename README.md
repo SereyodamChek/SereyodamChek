@@ -166,7 +166,7 @@ values:
 <a href="https://www.cheksereyodam.site/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
 </a>
-<a href="https://linkedin.com/in/sereyodamchek">
+<a href="https://linkedin.com/in/sereyodamchek](https://www.linkedin.com/in/sereyodam-chek?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
   <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
 
