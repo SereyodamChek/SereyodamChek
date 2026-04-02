@@ -154,7 +154,7 @@ values:
 |----------|------|---------|
 | ✉️ **Email** | [cheksereyodam@gmail.com](mailto:cheksereyodam@gmail.com) | Professional inquiries |
 | 🌐 **Portfolio** | [cheksereyodam.site](https://www.cheksereyodam.site/) | Case studies & resume |
-| 💼 **LinkedIn** | [Connect](https://linkedin.com/in/sereyodamchek](https://www.linkedin.com/in/sereyodam-chek?utm_source=share_via&utm_content=profile&utm_medium=member_ios)) | Career opportunities |
+| 💼 **LinkedIn** | [Connect](https://www.linkedin.com/in/sereyodam-chek?utm_source=share_via&utm_content=profile&utm_medium=member_ios) | Career opportunities |
 | 🐙 **GitHub** | [@SereyodamChek](https://github.com/SereyodamChek) | Open source |
 | 📱 **Instagram** | [@chek_sereyodam](https://www.instagram.com/chek_sereyodam/) | Tech insights |
 
