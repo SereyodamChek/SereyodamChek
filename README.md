@@ -1,17 +1,11 @@
 <div align="center">
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SereyodamChek.SereyodamChek&left_color=0d1117&right_color=58a6ff&left_text=visitors" />
 </div>
- 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d1117,100:58a6ff&height=220&section=header&text=Sereyodam%20Chek&fontSize=56&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Software%20Engineer%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20Builder&descAlignY=62&descSize=17&descColor=8b949e&animation=fadeIn&stroke=58a6ff&strokeWidth=1" />
- 
+
 <br/>
- 
 
-
-<!-- 👁️ Visitor Counter -->
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SereyodamChek.SereyodamChek&left_color=0d1117&right_color=58a6ff&label=Profile%20Views&labelColor=161b22" alt="Profile Views"/>
-</p>
 
 <!-- ✨ Typing Animation -->
 <div align="center">
@@ -113,16 +107,27 @@ values:
 
 <table>
   <tr>
-    <td>
-      <img width="340" src="https://github-readme-stats.vercel.app/api?username=SereyodamChek&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&custom_title=Contribution+Overview" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SereyodamChek&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css&custom_title=Top+Languages" alt="Top Languages"/>
+    <td align="center">
+      <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SereyodamChek&theme=discord_old_blurple" alt="Profile Details"/>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=SereyodamChek&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&sideNums=58a6ff" alt="Commit Streak"/>
+    <td align="center">
+      <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SereyodamChek&theme=discord_old_blurple" alt="Repos Per Language"/>
+      &nbsp;
+      <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SereyodamChek&theme=discord_old_blurple" alt="Most Commit Language"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SereyodamChek&theme=discord_old_blurple" alt="Stats"/>
+      &nbsp;
+      
+    
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=SereyodamChek&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&sideNums=58a6ff" alt="Commit Streak"/>
     </td>
   </tr>
 </table>
@@ -138,10 +143,6 @@ values:
   </picture>
 </div>
 
-<div align="center">
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=SereyodamChek&theme=darkdimmed&no-frame=true&row=1&column=5&margin-w=10&title=MultiLanguage,Commits,PR,Issues,Repo" alt="Trophies"/>
-</div>
 
 ---
 
@@ -153,7 +154,7 @@ values:
 |----------|------|---------|
 | ✉️ **Email** | [cheksereyodam@gmail.com](mailto:cheksereyodam@gmail.com) | Professional inquiries |
 | 🌐 **Portfolio** | [cheksereyodam.site](https://www.cheksereyodam.site/) | Case studies & resume |
-| 💼 **LinkedIn** | [Connect](https://linkedin.com/in/YOUR_LINKEDIN_HERE) | Career opportunities |
+| 💼 **LinkedIn** | [Connect](https://linkedin.com/in/sereyodamchek) | Career opportunities |
 | 🐙 **GitHub** | [@SereyodamChek](https://github.com/SereyodamChek) | Open source |
 | 📱 **Instagram** | [@chek_sereyodam](https://www.instagram.com/chek_sereyodam/) | Tech insights |
 
