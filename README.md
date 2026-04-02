@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SereyodamChek.SereyodamChek" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Guys!+👋;+I'm+Serey+Odam!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Guys!+👋;+I'm+Sereyodam!;" />
 </h1>
 
-<h3 align="center">A software developer from Cambodia </h3>
+<h3 align="center">A Multiple Major In AI😂 </h3>
 
 <br/>
 
@@ -12,16 +12,16 @@
  
  🔭 I’m currently working on **a Software Engineer**
  
- 🌱 I’m currently learning **Flutter, SQL, Laravel, Nextjs**
+ 🌱 I’m currently learning **Nextjs, Oracle, Machine Learning, Rust**
 
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:strongmandom@gmail.com">
+  <a href="mailto:cheksereyodam@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.sereyodamchek.xyz/" target="_blank">
+  <a href="https://www.cheksereyodam.site/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
     <a href="https://web.facebook.com/cheksereyodam/">
@@ -40,8 +40,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,html,css,javascript,vscode,visualstudio,github,eclipse,cs,cpp" />
-    <img src="https://skillicons.dev/icons?i=angular,laravel,dart,java,linux,mysql,postman,windows,discord,ps,ai" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,html,css,javascript,vscode,visualstudio,github,eclipse,cs,cpp,kotlin" />
+    <img src="https://skillicons.dev/icons?i=next,dart,python,linux,androidstudio,mysql,postman,windows,discord,ps,ai,cloudflare" /><br>
 </div>
 
 <br/>
