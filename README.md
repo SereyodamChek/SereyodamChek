@@ -38,39 +38,7 @@
 
 ---
 
-## 🧬 About Me
 
-```typescript
-const sereyodam: Developer = {
-  name:     "Sereyodam Chek",
-  title:    "Software Engineer | AI Systems Architect",
-  location: "Cambodia 🇰🇭",
-  
-  expertise: {
-    primary:   ["AI/ML Systems", "Full-Stack Engineering", "Systems Programming"],
-    secondary: ["Cloud Architecture", "DevOps", "Technical Leadership"],
-  },
-
-  currentlyLearning: [
-    "Next.js  → building performant, production-grade apps",
-    "Oracle DB → designing enterprise data systems at scale",
-    "ML/AI     → crafting intelligent, adaptive models",
-    "Rust      → safe, concurrent, high-performance software",
-  ],
-
-  philosophy: [
-    "Code quality over quick wins",
-    "Documentation is a first-class citizen",
-    "Systems thinking over isolated solutions",
-    "Build tools that outlast the hype",
-  ],
-
-  contact: "cheksereyodam@gmail.com",
-  portfolio: "https://www.cheksereyodam.site/",
-};
-```
-
----
 
 ## ⚙️ Technical Arsenal
 
