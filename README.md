@@ -1,55 +1,73 @@
 <div align="center">
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SereyodamChek.SereyodamChek&left_color=0d1117&right_color=58a6ff&left_text=visitors" />
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    MORPHING HEADER BANNER                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,30:0a0f1e,60:0d1f3c,100:1e3a5f&height=280&section=header&text=Sereyodam%20Chek&fontSize=62&fontColor=e2f0ff&fontAlignY=42&fontAlign=50&desc=Software%20Engineer%20%E2%80%A2%20AI%20Systems%20Architect%20%E2%80%A2%20Builder%20of%20Elegant%20Things&descAlignY=60&descSize=15&descColor=5b9bd5&animation=scaleIn&stroke=1e6ab5&strokeWidth=2" width="100%"/>
+
+<!-- Visitor Counter -->
+<div>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SereyodamChek.SereyodamChek&left_color=0a0f1e&right_color=1e6ab5&left_text=visitors&style=flat-square" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d1117,100:58a6ff&height=220&section=header&text=Sereyodam%20Chek&fontSize=56&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Software%20Engineer%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20Builder&descAlignY=62&descSize=17&descColor=8b949e&animation=fadeIn&stroke=58a6ff&strokeWidth=1" />
-
-<br/>
 
 
-<!-- ✨ Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=Architecting+scalable+AI+systems;Engineering+full-stack+solutions;Turning+complex+problems+into+elegant+code" alt="Typing SVG"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    QUICK INFO CARDS                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/🎯_Role-Software%20Engineer-1e6ab5?style=for-the-badge&labelColor=0a0f1e" />
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/🌍_Location-Cambodia%20🇰🇭-1e6ab5?style=for-the-badge&labelColor=0a0f1e" />
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/💼_Status-Open%20to%20Collab-22c55e?style=for-the-badge&labelColor=0a0f1e" />
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/🤖_Focus-AI%20%2F%20Full--Stack-a855f7?style=for-the-badge&labelColor=0a0f1e" />
+    </td>
+  </tr>
+</table>
+
 </div>
-
-<br/>
-
-<div align="center">
-
-| 🎯 Role | 🌍 Location | 💼 Status | 🔗 Contact |
-|--------|-------------|-----------|------------|
-| Software Engineer • AI Specialist | Cambodia 🇰🇭 | Open to Collaboration | [📧 Email](mailto:cheksereyodam@gmail.com) • [🌐 Portfolio](https://www.cheksereyodam.site/) |
-
-</div>
-
-<br/>
-
-<p align="center">
-  <a href="#-about"><strong>👤 About</strong></a> •
-  <a href="#%EF%B8%8F-technical-arsenal"><strong>⚙️ Skills</strong></a> •
-  <a href="#-featured-projects"><strong>🚀 Projects</strong></a> •
-  <a href="#-github-analytics"><strong>📊 Stats</strong></a> •
-  <a href="#-connect--collaborate"><strong>🔗 Connect</strong></a>
-</p>
 
 ---
 
-## 👤 About
-```yaml
-name: Sereyodam Chek
-title: Software Engineer | AI Systems Developer
-expertise:
-  primary: [AI/ML, Full-Stack Development, Systems Programming]
-  secondary: [Cloud Architecture, DevOps, Technical Leadership]
-current_focus:
-  - "Next.js: Building performant full-stack applications"
-  - "Oracle DB: Designing enterprise-grade data systems"
-  - "Machine Learning: Developing intelligent, adaptive models"
-  - "Rust: Writing safe, concurrent, high-performance code"
-values:
-  - "Code quality over quick fixes"
-  - "Documentation as a first-class citizen"
-  - "Collaboration through clear communication"
+## 🧬 About Me
+
+```typescript
+const sereyodam: Developer = {
+  name:     "Sereyodam Chek",
+  title:    "Software Engineer | AI Systems Architect",
+  location: "Cambodia 🇰🇭",
+  
+  expertise: {
+    primary:   ["AI/ML Systems", "Full-Stack Engineering", "Systems Programming"],
+    secondary: ["Cloud Architecture", "DevOps", "Technical Leadership"],
+  },
+
+  currentlyLearning: [
+    "Next.js  → building performant, production-grade apps",
+    "Oracle DB → designing enterprise data systems at scale",
+    "ML/AI     → crafting intelligent, adaptive models",
+    "Rust      → safe, concurrent, high-performance software",
+  ],
+
+  philosophy: [
+    "Code quality over quick wins",
+    "Documentation is a first-class citizen",
+    "Systems thinking over isolated solutions",
+    "Build tools that outlast the hype",
+  ],
+
+  contact: "cheksereyodam@gmail.com",
+  portfolio: "https://www.cheksereyodam.site/",
+};
 ```
 
 ---
@@ -58,18 +76,52 @@ values:
 
 <div align="center">
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **AI/ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+### 🗣️ Languages
 
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-ce442a?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker,postman,figma,aws,cloudflare,mysql,ps,ai,discord,html,css,javascript,nextjs,typescript,flutter,figma&perline=10&theme=dark" alt="Tools"/>
+### 🖼️ Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=black)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### 🔩 Backend & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Actix](https://img.shields.io/badge/Actix-ce442a?style=for-the-badge&logo=rust&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🤖 AI / Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🚀 DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker,postman,figma,aws,cloudflare,mysql,nextjs,typescript,flutter,react,python,rust,pytorch,tensorflow,firebase,postgresql&perline=10&theme=dark" alt="Tools & Icons"/>
+
 </div>
 
 ---
@@ -78,26 +130,88 @@ values:
 
 <div align="center">
 
-| Project | Tech Stack | Impact | Links |
-|---------|-----------|--------|-------|
-| **🤖 AI Assistant Engine** | Python • PyTorch • FastAPI • Docker | NLP pipeline with high intent accuracy | [💻 Code](#) |
-| **⚡ Next.js Commerce Platform** | Next.js 14 • TypeScript • Stripe • Oracle | Full-featured e-commerce platform | [🔗 Live](#) • [💻 Repo](#) |
-| **🔐 AuthMicro (Rust)** | Rust • Actix • PostgreSQL • JWT | High-throughput auth microservice | [💻 Source](#) |
-| **📱 Cross-Platform App** | Flutter • Firebase • ML Kit | Offline-first mobile application | [💻 Code](#) |
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Stack</th>
+      <th>Highlight</th>
+      <th>Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🤖 AI Assistant Engine</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </td>
+      <td>Production NLP pipeline · High intent accuracy</td>
+      <td><a href="#">💻 Code</a></td>
+    </tr>
+    <tr>
+      <td><b>⚡ Next.js Commerce Platform</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+      </td>
+      <td>Full-featured e-commerce · Enterprise-grade</td>
+      <td><a href="#">🔗 Live</a> · <a href="#">💻 Repo</a></td>
+    </tr>
+    <tr>
+      <td><b>🔐 AuthMicro (Rust)</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Rust-ce442a?style=flat-square&logo=rust&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Actix-red?style=flat-square&logo=rust&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      </td>
+      <td>High-throughput auth microservice · JWT</td>
+      <td><a href="#">💻 Source</a></td>
+    </tr>
+    <tr>
+      <td><b>📱 Cross-Platform App</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white"/>
+      </td>
+      <td>Offline-first · Cross-platform · ML-powered</td>
+      <td><a href="#">💻 Code</a></td>
+    </tr>
+    <tr>
+      <td><b>📊 DataViz Dashboard</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+      </td>
+      <td>Real-time analytics · ✅ Production</td>
+      <td><a href="#">🔗 Live</a></td>
+    </tr>
+    <tr>
+      <td><b>🛠️ CLI Task Manager</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Rust-ce442a?style=flat-square&logo=rust&logoColor=white"/>
+      </td>
+      <td>Terminal productivity tool · 🚧 Active Dev</td>
+      <td><a href="#">💻 Code</a></td>
+    </tr>
+    <tr>
+      <td><b>📦 ML Model Zoo</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      </td>
+      <td>Curated pre-trained models · Open Source</td>
+      <td><a href="#">💻 Source</a></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
-
-<details>
-<summary><strong>📁 View More Projects</strong></summary>
-<br/>
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| **DataViz Dashboard** | Real-time analytics with D3.js & WebSockets | ✅ Production |
-| **CLI Task Manager** | Rust-based terminal productivity tool | 🚧 Active Dev |
-| **ML Model Zoo** | Curated pre-trained models with inference API | 📦 Open Source |
-
-</details>
 
 ---
 
@@ -105,94 +219,99 @@ values:
 
 <div align="center">
 
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SereyodamChek&theme=github_dark" alt="Profile Details"/>
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SereyodamChek&theme=github_dark" alt="Language by Repo"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SereyodamChek&theme=github_dark" alt="Language by Commits"/>
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SereyodamChek&theme=github_dark" alt="Stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SereyodamChek&theme=github_dark&utcOffset=7" alt="Productive Time"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SereyodamChek&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e6ab5&ring=1e6ab5&fire=ff7b72&currStreakLabel=4d9de0&sideLabels=8b949e&sideNums=4d9de0&dates=8b949e" alt="Commit Streak" width="70%"/>
+
+</div>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SereyodamChek/SereyodamChek/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SereyodamChek/SereyodamChek/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/SereyodamChek/SereyodamChek/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="85%"/>
+</picture>
+
+</div>
+
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+<br/>
+
+[![Email](https://img.shields.io/badge/📧_Email-cheksereyodam%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:cheksereyodam@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-cheksereyodam.site-4D9DE0?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://www.cheksereyodam.site/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/sereyodam-chek)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-SereyodamChek-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/SereyodamChek)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-chek__sereyodam-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/chek_sereyodam/)
+
+<br/><br/>
+
 <table>
   <tr>
-    <td align="center">
-      <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SereyodamChek&theme=discord_old_blurple" alt="Profile Details"/>
-    </td>
+    <td align="center">✉️ <b>Email</b></td>
+    <td><a href="mailto:cheksereyodam@gmail.com">cheksereyodam@gmail.com</a></td>
+    <td><em>Professional inquiries</em></td>
   </tr>
   <tr>
-    <td align="center">
-      <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SereyodamChek&theme=discord_old_blurple" alt="Repos Per Language"/>
-      &nbsp;
-      <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SereyodamChek&theme=discord_old_blurple" alt="Most Commit Language"/>
-    </td>
+    <td align="center">🌐 <b>Portfolio</b></td>
+    <td><a href="https://www.cheksereyodam.site/">cheksereyodam.site</a></td>
+    <td><em>Case studies & resume</em></td>
   </tr>
   <tr>
-    <td align="center">
-      <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SereyodamChek&theme=discord_old_blurple" alt="Stats"/>
-      &nbsp;
-      
-    
+    <td align="center">💼 <b>LinkedIn</b></td>
+    <td><a href="https://www.linkedin.com/in/sereyodam-chek">Sereyodam Chek</a></td>
+    <td><em>Career opportunities</em></td>
   </tr>
   <tr>
-    <td align="center">
-      <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=SereyodamChek&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&sideNums=58a6ff" alt="Commit Streak"/>
-    </td>
+    <td align="center">🐙 <b>GitHub</b></td>
+    <td><a href="https://github.com/SereyodamChek">@SereyodamChek</a></td>
+    <td><em>Open source work</em></td>
+  </tr>
+  <tr>
+    <td align="center">📸 <b>Instagram</b></td>
+    <td><a href="https://www.instagram.com/chek_sereyodam/">@chek_sereyodam</a></td>
+    <td><em>Tech insights & life</em></td>
   </tr>
 </table>
 
 </div>
 
-<div align="center">
-  <h3>🗓️ Contribution Activity</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SereyodamChek/SereyodamChek/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SereyodamChek/SereyodamChek/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/SereyodamChek/SereyodamChek/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="700"/>
-  </picture>
-</div>
-
-
 ---
 
-## 🔗 Connect & Collaborate
-
 <div align="center">
 
-| Platform | Link | Purpose |
-|----------|------|---------|
-| ✉️ **Email** | [cheksereyodam@gmail.com](mailto:cheksereyodam@gmail.com) | Professional inquiries |
-| 🌐 **Portfolio** | [cheksereyodam.site](https://www.cheksereyodam.site/) | Case studies & resume |
-| 💼 **LinkedIn** | [Connect](https://www.linkedin.com/in/sereyodam-chek?utm_source=share_via&utm_content=profile&utm_medium=member_ios) | Career opportunities |
-| 🐙 **GitHub** | [@SereyodamChek](https://github.com/SereyodamChek) | Open source |
-| 📱 **Instagram** | [@chek_sereyodam](https://www.instagram.com/chek_sereyodam/) | Tech insights |
+<br/>
+
+> *"The best engineers don't just write code —*
+> *they solve human problems with elegant systems."*
 
 <br/>
 
-<a href="mailto:cheksereyodam@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
-</a>
-<a href="https://www.cheksereyodam.site/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
-</a>
-<a href="https://linkedin.com/in/sereyodamchek](https://www.linkedin.com/in/sereyodam-chek?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:0d1f3c,100:020817&height=120&section=footer&reversal=false&animation=fadeIn" width="100%"/>
+
+<sub>
+  <a href="#top">⬆️ Back to Top</a> &nbsp;•&nbsp;
+  ✨ Last updated: June 2026 &nbsp;•&nbsp;
+  Made with ❤️ in Cambodia 🇰🇭
+</sub>
 
 </div>
-
-<br/>
-
-<blockquote align="center">
-  <em>"The best engineers don't just write code — they solve human problems with elegant systems."</em>
-</blockquote>
-
-<br/>
-
-<!-- 🎨 Footer -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer&reversal=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0969da,100:ffffff&height=100&section=footer&reversal=true"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer&reversal=true" alt="Footer"/>
-  </picture>
-</p>
-
-<p align="center">
-  <a href="#top">
-    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-58a6ff?style=for-the-badge&labelColor=0d1117"/>
-  </a>
-  <br/>
-  <sub><em>✨ Last updated: April 2026</em></sub>
-</p>
