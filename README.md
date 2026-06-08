@@ -187,20 +187,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SereyodamChek&theme=github_dark" alt="Profile Details"/>
-
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SereyodamChek&theme=github_dark" alt="Language by Repo"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SereyodamChek&theme=github_dark" alt="Language by Commits"/>
-
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SereyodamChek&theme=github_dark" alt="Stats"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SereyodamChek&theme=github_dark&utcOffset=7" alt="Productive Time"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SereyodamChek&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e6ab5&ring=1e6ab5&fire=ff7b72&currStreakLabel=4d9de0&sideLabels=8b949e&sideNums=4d9de0&dates=8b949e" alt="Commit Streak" width="70%"/>
 
 </div>
