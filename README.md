@@ -105,7 +105,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://www.chipmongbank.com/images/logo.png" width="120" height="40" style="object-fit: contain;">
+        <img src="https://www.chipmongbank.com/images/logo.png" width="170" height="50" style="object-fit: contain;">
         <br>
         <sub>CHIP MONG BANK</sub>
       </td>
@@ -126,7 +126,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://www.aupp.edu.kh/wp-content/uploads/AUPP-Knock-out-Logo.png" width="120" height="40" style="object-fit: contain;">
+        <img src="https://www.aupp.edu.kh/wp-content/uploads/AUPP-Knock-out-Logo.png" width="180" height="50" style="object-fit: contain;">
         <br>
         <sub>AMERICAN UNIVERSITY OF PHNOM PENH</sub>
       </td>
