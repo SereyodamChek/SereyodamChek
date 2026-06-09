@@ -48,7 +48,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-ce442a?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -64,7 +63,6 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Actix](https://img.shields.io/badge/Actix-ce442a?style=for-the-badge&logo=rust&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -73,14 +71,12 @@
 ### 🤖 AI / Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🚀 DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -93,116 +89,170 @@
 </div>
 
 ---
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<table>
+<table width="100%">
   <thead>
     <tr>
-      <th>Project</th>
-      <th>Stack</th>
-      <th>Highlight</th>
-      <th>Links</th>
+      <th width="20%">Company</th>
+      <th width="25%">Project</th>
+      <th width="40%">Tech Stack</th>
+      <th width="15%">Links</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>🤖 AI Assistant Engine</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <td align="center">
+        <img src="https://www.chipmongbank.com/images/logo.png" width="120" height="40" style="object-fit: contain;">
+        <br>
+        <sub>CHIP MONG BANK</sub>
       </td>
-      <td>Production NLP pipeline · High intent accuracy</td>
-      <td><a href="#">💻 Code</a></td>
-    </tr>
-    <tr>
-      <td><b>⚡ Next.js Commerce Platform</b></td>
+      <td>
+        <b>ChipMong Clone</b><br>
+        <sub>Banking UI/UX</sub>
+      </td>
       <td>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-      </td>
-      <td>Full-featured e-commerce · Enterprise-grade</td>
-      <td><a href="#">🔗 Live</a> · <a href="#">💻 Repo</a></td>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+       </td>
+      <td align="center">
+        <a href="https://github.com/SereyodamChek/chipmong_bank_clone">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+       </td>
     </tr>
     <tr>
-      <td><b>🔐 AuthMicro (Rust)</b></td>
+      <td align="center">
+        <img src="https://www.aupp.edu.kh/wp-content/uploads/AUPP-Knock-out-Logo.png" width="120" height="40" style="object-fit: contain;">
+        <br>
+        <sub>AMERICAN UNIVERSITY OF PHNOM PENH</sub>
+      </td>
       <td>
-        <img src="https://img.shields.io/badge/Rust-ce442a?style=flat-square&logo=rust&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Actix-red?style=flat-square&logo=rust&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      </td>
-      <td>High-throughput auth microservice · JWT</td>
-      <td><a href="#">💻 Source</a></td>
-    </tr>
-    <tr>
-      <td><b>📱 Cross-Platform App</b></td>
+        <b>AUPP App</b><br>
+        <sub>Campus Student App</sub>
+       </td>
       <td>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GetX-1B5E20?style=flat-square&logo=flutter&logoColor=white"/>
       </td>
-      <td>Offline-first · Cross-platform · ML-powered</td>
-      <td><a href="#">💻 Code</a></td>
+      <td align="center">
+        <a href="https://github.com/SereyodamChek/AUPP_App_Unofficial">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
     </tr>
     <tr>
-      <td><b>📊 DataViz Dashboard</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+      <td align="center">
+        <img src="https://www.payway.com.kh/payway-logo.svg" width="140" height="50" style="object-fit: contain;">
+        <br>
+        <sub>PAYWAY CAMBODIA</sub>
       </td>
-      <td>Real-time analytics · ✅ Production</td>
-      <td><a href="#">🔗 Live</a></td>
+      <td>
+        <b>ProStore PayWay</b><br>
+        <sub>E-commerce Platform</sub>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PayWay-0055A4?style=flat-square"/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/SereyodamChek/ProStore_PayWay-Intergration">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
     </tr>
     <tr>
-      <td><b>🛠️ CLI Task Manager</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Rust-ce442a?style=flat-square&logo=rust&logoColor=white"/>
+      <td align="center">
+        <img src="https://www.cysend.com/images/products/cellcard.svg" width="140" height="50" style="object-fit: contain;">
+        <br>
+        <sub>CELLCARD</sub>
       </td>
-      <td>Terminal productivity tool · 🚧 Active Dev</td>
-      <td><a href="#">💻 Code</a></td>
+      <td>
+        <b>CellCard App</b><br>
+        <sub>Unofficial Mobile App</sub>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/SereyodamChek/CellCard_Unofficial_App">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
     </tr>
     <tr>
-      <td><b>📦 ML Model Zoo</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <td align="center">
+        <img src="https://ecolepauldubrule.org/wp-content/uploads/2024/05/ABA_Logo.png" width="140" height="50" style="object-fit: contain;">
+        <br>
+        <sub>ABA BANK</sub>
       </td>
-      <td>Curated pre-trained models · Open Source</td>
-      <td><a href="#">💻 Source</a></td>
+      <td>
+        <b>ABA Bank Clone</b><br>
+        <sub>Digital Banking UI</sub>
+      </td>
+      <td>
+         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/SereyodamChek/aba_bank_clone">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://ibccambodia.com/wp-content/uploads/2019/09/New-WingBank-Logo_Green-2025.png" width="140" height="50" style="object-fit: contain;">
+        <br>
+        <sub>WING BANK</sub>
+      </td>
+      <td>
+        <b>Wing Bank Clone</b><br>
+        <sub>Customer Interface</sub>
+      </td>
+      <td>
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/SereyodamChek/Wing_Bank_Sereyodam">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
 
 </div>
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SereyodamChek&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e6ab5&ring=1e6ab5&fire=ff7b72&currStreakLabel=4d9de0&sideLabels=8b949e&sideNums=4d9de0&dates=8b949e" alt="Commit Streak" width="70%"/>
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SereyodamChek&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SereyodamChek&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="40%" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SereyodamChek&theme=dark&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="Commit Streak" width="70%"/>
 </div>
 
 <div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SereyodamChek/SereyodamChek/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SereyodamChek/SereyodamChek/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/SereyodamChek/SereyodamChek/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="85%"/>
-</picture>
-
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SereyodamChek/SereyodamChek/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SereyodamChek/SereyodamChek/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SereyodamChek/SereyodamChek/output/github-contribution-grid-snake-dark.svg" width="85%">
+  </picture>
 </div>
-
 ---
 
 ## 🌐 Connect & Collaborate
