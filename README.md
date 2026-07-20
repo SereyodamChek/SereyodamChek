@@ -262,7 +262,7 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/_Email-cheksereyodam%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:cheksereyodam@gmail.com)
-[![Portfolio](https://img.shields.io/badge/_Portfolio-cheksereyodam.site-4D9DE0?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://www.cheksereyodam.site/)
+[![Portfolio](https://img.shields.io/badge/_Portfolio-cheksereyodam.com-4D9DE0?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://www.cheksereyodam.com/)
 [![LinkedIn](https://img.shields.io/badge/_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/sereyodam-chek)
 [![GitHub](https://img.shields.io/badge/_GitHub-SereyodamChek-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/SereyodamChek)
 [![Instagram](https://img.shields.io/badge/_Instagram-chek__sereyodam-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/chek_sereyodam/)
@@ -284,7 +284,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#555" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
       <br><b>Portfolio</b>
     </td>
-    <td><a href="https://www.cheksereyodam.site/">cheksereyodam.site</a></td>
+    <td><a href="https://www.cheksereyodam.com/">cheksereyodam.com</a></td>
     <td><em>Case studies & resume</em></td>
   </tr>
   <tr>
